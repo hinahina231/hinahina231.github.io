@@ -1,0 +1,4 @@
+exclude:
+  - "*.mp4"
+  - "*.webm"
+  - "Musics/"
